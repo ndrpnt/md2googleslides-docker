@@ -19,5 +19,6 @@ docker run -it --rm \
   --title "My Slides" \
   --style atom-one-dark \
   --append 2axCQ4MLoK1MJ2S5-8gkWAUhNWZjPR4iJqFXXnOy-xRk \
-  --erase
+  --erase \
+  --use-fileio
 ```
